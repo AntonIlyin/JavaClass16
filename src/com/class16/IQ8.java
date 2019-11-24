@@ -14,7 +14,7 @@ public class IQ8 {
 		b=1;
 		
 		for(int i=0;i<10;i++) {
-			System.out.println(c+ " ");
+			System.out.println(a+ " ");
 		c=a+b;
 		a=b;
 		b=c;
